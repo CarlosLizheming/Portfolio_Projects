@@ -22,9 +22,8 @@ This dataset consists of 3 CSV files:
 3. **WorldCupPlayers.csv**: 9 attributes 37,784 rows, showing all information about players correspond to the matches including **Coach Name**, **Position**, **Line-up**, etc.
 
 ### 2. SQL databases
-Based on the data collected, I design the Entity-Relationship Diagram (ERD) and Relational Schema. Entity (table) creation is based on 3 most common levels of normalization to ensure data integrity.   
+I have designed the Entity-Relationship Diagram (ERD) and Relational Schema based on the collected data, which adhere to 3 most common levels of normalization to ensure data integrity. The tools are from [ERD Plus](https://erdplus.com/).
 
-I use [ERD Plus](https://erdplus.com/) and [dbdiagram](https://dbdiagram.io/home) to draw Entity-Relationship Diagram and Schema.
 
 ### 3. Data Preparation
 Once I have the database schema, I prepare the data by cleaning, harmonising, transforming the data using using python and export each of the entity to csv format.  
