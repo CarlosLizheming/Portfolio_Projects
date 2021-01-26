@@ -14,7 +14,7 @@ Project scope:
 
 ### 1. Data Collection
 Data sources:
-- [kaggle - FIFA World Cup-All the results from World Cups ](https://www.kaggle.com/abecklas/fifa-world-cup)<br>
+- [kaggle - FIFA World Cup-All the results from World Cups ](https://www.kaggle.com/abecklas/fifa-world-cup)
 This dataset consists of 3 CSV files: 
 1. **WorldCups.csv**: 10 attributes 20 rows, showing all information about all the World Cups in the history including **Year**, **Host Country**, **Champion**, etc.
 2. **WorldCupMatches.csv**: 20 attributes 852 rows, showing all the results from the matches contested as part of the cups including **Datetime**, **Stage**, **Team**, **Goal**, **Attendance**, **Referee** etc.
