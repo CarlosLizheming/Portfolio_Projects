@@ -1,0 +1,187 @@
+﻿Stadium_ID,Stadium_Name,City,Country_ID
+ARG_1,Jose Amalfitani,Buenos Aires,ARG
+ARG_2,Estadio Oles ni,Cordoba,ARG
+ARG_3,San Martin,Mendoza,ARG
+ARG_4,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,ARG
+ARG_5,Estadio JosoMar Estadio Mo,Mar Del Plata,ARG
+ARG_6,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,ARG
+ARG_7,Estadio Jose Maria Minella,Mar Del Plata,ARG
+ARG_8,Estadio Olimpico Chateau Carreras,Cordoba,ARG
+BRA_1,Pacaembu,Sao Paulo,BRA
+BRA_10,Estadio das Dunas,Natal,BRA
+BRA_11,Arena Fonte Nova,Salvador,BRA
+BRA_12,Estadio Nacional,Brasilia,BRA
+BRA_13,Arena Amazonia,Manaus,BRA
+BRA_14,Estadio Beira-Rio,Porto Alegre,BRA
+BRA_15,Arena da Baixada,Curitiba,BRA
+BRA_16,Estadio do Maracana,Rio De Janeiro,BRA
+BRA_17,Arena Pantanal,Cuiaba,BRA
+BRA_18,Arena de Sao Paulo,Sao Paulo,BRA
+BRA_19,Maracana-Estadio Jornalista Mario Filho,Rio De Janeiro,BRA
+BRA_2,Durival de Brito,Curitiba,BRA
+BRA_3,Maracano- Estitoio Dr. Lisandro de la Torr,Rio De Janeiro,BRA
+BRA_4,Ilha do Retiro,Recife,BRA
+BRA_5,Eucaliptos,Porto Alegre,BRA
+BRA_6,Independencia,Belo Horizonte,BRA
+BRA_7,Estadio Mineirao,Belo Horizonte,BRA
+BRA_8,Estadio Castelao,Fortaleza,BRA
+BRA_9,Arena Pernambuco,Recife,BRA
+CHI_1,Nacional,Santiago De Chile,CHI
+CHI_2,Estadio El Teniente-Codelco,Rancagua,CHI
+CHI_3,Carlos Dittborn,Arica,CHI
+CHI_4,Estadio Sausalito,Vina Del Mar,CHI
+ENG_1,Hillsborough,Sheffield,ENG
+ENG_2,Goodison Park,Liverpool,ENG
+ENG_3,Ayresome Park,Middlesbrough,ENG
+ENG_4,Wembley Stadium,London,ENG
+ENG_5,Old Trafford Stadium,Manchester,ENG
+ENG_6,Villa Park,Birmingham,ENG
+ENG_7,White City,London,ENG
+ENG_8,Roker Park Ground,Sunderland,ENG
+ESP_1,Santiago Bernabeu,Madrid,ESP
+ESP_10,Ramon Sanchez Pizjuan,Seville,ESP
+ESP_11,Riazor,La Coru nche,ESP
+ESP_12,Camp Nou,Barcelona,ESP
+ESP_13,Estadio Municipal de Balacondr,Vigo,ESP
+ESP_14,El Molinon,Gijon,ESP
+ESP_15,San Mames,Bilbao,ESP
+ESP_16,Nuevo Estadio,Elche,ESP
+ESP_17,La Rosaleda,Malaga,ESP
+ESP_2,Jose Zorrilla,Valladolid,ESP
+ESP_3,La Romareda,Zaragoza,ESP
+ESP_4,Luis Casanova,Valencia,ESP
+ESP_5,Carlos Tartiere,Oviedo,ESP
+ESP_6,Vicente Calderon,Madrid,ESP
+ESP_7,Sarria,Barcelona,ESP
+ESP_8,Jose Rico Perez,Alicante,ESP
+ESP_9,Benito Villamarin,Seville,ESP
+FRA_1,La Mosson,Montpellier,FRA
+FRA_10,Stade Olympique,Colombes,FRA
+FRA_11,Velodrome Municipale,Reims,FRA
+FRA_12,Stade Vme Munici,Marseilles,FRA
+FRA_13,Stade du Parc Lescure,Bordeaux,FRA
+FRA_14,Cavee Verte,Le Havre,FRA
+FRA_15,Stade de la Meinau,Strasbourg,FRA
+FRA_16,Parc des Princes,Paris,FRA
+FRA_17,Stade Velodrome,Marseilles,FRA
+FRA_2,Stade de France,Saint-Denis,FRA
+FRA_3,Fort Carree,Antibes,FRA
+FRA_4,Stade Felix Bollaert,Lens,FRA
+FRA_5,Stade Geoffroy Guichard,Saint-Etienne,FRA
+FRA_6,Stade de Gerland,Lyon,FRA
+FRA_7,La Beaujoire,Nantes,FRA
+FRA_8,Victor Boucquey,Lille,FRA
+FRA_9,Stade Municipal,Toulouse,FRA
+GER_1,"FIFA World Cup Stadium, Hamburg",Hamburg,GER
+GER_10,"FIFA World Cup Stadium, Munich",Munich,GER
+GER_11,Rheinstadion,Dheinstadionu,GER
+GER_12,Niedersachsenstadion,Hanover,GER
+GER_13,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen,GER
+GER_14,Neckarstadion,Stuttgart,GER
+GER_15,Parkstadion,Gelsenkirchen,GER
+GER_16,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main,GER
+GER_17,Westfalenstadion,Dortmund,GER
+GER_18,Olympiastadion,Berlin West,GER
+GER_19,Volksparkstadion,Hamburg,GER
+GER_2,Zentralstadion,Leipzig,GER
+GER_3,Waldstadion,Frankfurt/Main,GER
+GER_4,"FIFA World Cup Stadium, Dortmund",Dortmund,GER
+GER_5,Franken-Stadion,Nuremberg,GER
+GER_6,"FIFA World Cup Stadium, Hanover",Hanover,GER
+GER_7,Gottlieb-Daimler-Stadion,Stuttgart,GER
+GER_8,"FIFA World Cup Stadium, Cologne",Cologne,GER
+GER_9,Fritz-Walter-Stadion,Kaiserslautern,GER
+ITA_1,Dacia Arena,Udine,ITA
+ITA_10,Luigi Ferraris,Genoa,ITA
+ITA_11,San Siro,Milan,ITA
+ITA_12,Littorale,Bologna,ITA
+ITA_13,Stadio Benito Mussolini,Turin,ITA
+ITA_14,Friuli,Udine,ITA
+ITA_15,Nazionale PNF,Rome,ITA
+ITA_16,Giorgio Ascarelli,Naples,ITA
+ITA_17,Giuseppe Meazza,Milan,ITA
+ITA_18,San Paolo,Naples,ITA
+ITA_19,Renato Dall Ara,Bologna,ITA
+ITA_2,Della Favorita,Palermo,ITA
+ITA_20,Stadio San Nicola,Bari,ITA
+ITA_3,Littorio,Trieste,ITA
+ITA_4,Marc Antonio Bentegodi,Verona,ITA
+ITA_5,Comunale,Florence,ITA
+ITA_6,Stadio Olimpico,Rome,ITA
+ITA_7,Sant Elia,Cagliari,ITA
+ITA_8,Stadio delle Alpi,Turin,ITA
+ITA_9,Giovanni Berta,Florence,ITA
+JPN_1,Saitama Stadium 2002,Saitama,JPN
+JPN_10,Osaka Nagai Stadium,Osaka,JPN
+JPN_11,International Stadium Yokohama,Yokohama,JPN
+JPN_2,Suwon World Cup Stadium,Suwon,JPN
+JPN_3,Kobe Wing Stadium,Kobe,JPN
+JPN_4,Niigata Stadium Big Swan,Niigata,JPN
+JPN_5,Kashima Stadium,Ibaraki,JPN
+JPN_6,Sapporo Dome,Sapporo,JPN
+JPN_7,Oita Stadium Big Eye,Oita,JPN
+JPN_8,Miyagi Stadium,Rifu,JPN
+JPN_9,Shizuoka Stadium Ecopa,Shizuoka,JPN
+KOR_1,Busan Asiad Main Stadium,Busan,KOR
+KOR_2,Gwangju World Cup Stadium,Gwangju,KOR
+KOR_3,Munsu Football Stadium,Ulsan,KOR
+KOR_4,Seoul World Cup Stadium,Seoul,KOR
+KOR_5,Daejeon World Cup Stadium,Daejeon,KOR
+KOR_6,Jeonju World Cup Stadium,Jeonju,KOR
+KOR_7,Daegu World Cup Stadium,Daegu,KOR
+KOR_8,Jeju World Cup Stadium,Jeju,KOR
+KOR_9,Incheon Football Stadium,Incheon,KOR
+MEX_1,Neza,Nezahualcoyotl,MEX
+MEX_10,Estadio Corregidora,Queretaro,MEX
+MEX_11,Cuauhtemoc,Puebla,MEX
+MEX_12,Jalisco,Guadalajara,MEX
+MEX_13,Nou Camp - Estadio Leeme,Leon,MEX
+MEX_14,Estadio Olimpico Universitario,Mexico City,MEX
+MEX_2,Tecnologico,Monterrey,MEX
+MEX_3,Estadio Universitario,Monterrey,MEX
+MEX_4,Bombonera - Estadio Nemesio Diez,Toluca,MEX
+MEX_5,Estadio Ol- Estadio Nemesio Die,Mexico City,MEX
+MEX_6,Estadio Irapuato,Irapuato,MEX
+MEX_7,Luis Dosal,Toluca,MEX
+MEX_8,Tres de Marzo,Guadalajara,MEX
+MEX_9,Estadio Azteca,Mexico City,MEX
+RSA_1,Cape Town Stadium,Cape Town,RSA
+RSA_10,Peter Mokaba Stadium,Polokwane,RSA
+RSA_2,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,RSA
+RSA_3,Ellis Park Stadium,Johannesburg,RSA
+RSA_4,Royal Bafokeng Sports Palace,Phokeng,RSA
+RSA_5,Mbombela Stadium,Nelspruit,RSA
+RSA_6,Free State Stadium,Mangaung/Bloemfontein,RSA
+RSA_7,Durban Stadium,Durban,RSA
+RSA_8,Soccer City Stadium,Johannesburg,RSA
+RSA_9,Loftus Versfeld Stadium,Tshwane/Pretoria,RSA
+SUI_1,Comunale di Cornaredo,Lugano,SUI
+SUI_2,Hardturm,Zurich,SUI
+SUI_3,Wankdorf Stadium,Berne,SUI
+SUI_4,Charmilles,Geneva,SUI
+SUI_5,St. Jakob,Basel,SUI
+SUI_6,La Pontaise,Lausanne,SUI
+SWE_1,Eyravallen,Orebro,SWE
+SWE_10,Olympia Stadium,Helsingborg,SWE
+SWE_11,Arosvallen,Vasteras,SWE
+SWE_12,Rimnersvallen,Udevalla,SWE
+SWE_2,Tunavallen,Eskilstuna,SWE
+SWE_3,Rasunda Stadium,Solna,SWE
+SWE_4,Idrottsparken,Norrktsparken,SWE
+SWE_5,Nya Ullevi,Gothenburg,SWE
+SWE_6,Jarnvallen,Sandviken,SWE
+SWE_7,Malmo Stadion,Malmo St,SWE
+SWE_8,Orjans Vall,Halmstad,SWE
+SWE_9,Ryavallen,Boras,SWE
+URU_1,Parque Central,Montevideo,URU
+URU_2,Estadio Centenario,Montevideo,URU
+URU_3,Pocitos,Montevideo,URU
+USA_1,Pontiac Silverdome,Detroit,USA
+USA_2,Giants Stadium,New York/New Jersey,USA
+USA_3,Cotton Bowl,Dallas,USA
+USA_4,Soldier Field,Chicago,USA
+USA_5,Stanford Stadium,San Francisco,USA
+USA_6,Foxboro Stadium,Boston,USA
+USA_7,RFK Stadium,Washington Dc,USA
+USA_8,Rose Bowl,Los Angeles,USA
+USA_9,Citrus Bowl,Orlando,USA
