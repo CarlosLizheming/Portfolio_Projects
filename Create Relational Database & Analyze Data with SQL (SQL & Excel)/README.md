@@ -14,8 +14,11 @@ Project scope:
 
 ### 1. Data Collection
 Data sources:
-- [kaggle - FIFA World Cup-All the results from World Cups ](https://www.kaggle.com/abecklas/fifa-world-cup)
-Data includes overall crime rate, five preventable offences, cases recorded for selected major offences, unlicensed moneylending and harassment, person arrested for selected major offences, victims of selected major offences, and singapore population data.
+- [kaggle - FIFA World Cup-All the results from World Cups ](https://www.kaggle.com/abecklas/fifa-world-cup)<br>
+This dataset consists of 3 CSV files: 
+1. **WorldCups.csv**: 10 attributes 20 rows, showing all information about all the World Cups in the history including **Year**, **Host Country**, **Champion**, etc.
+2. **WorldCupMatches.csv**: 20 attributes 852 rows, showing all the results from the matches contested as part of the cups including **Datetime**, **Stage**, **Team**, **Goal**, **Attendance**, **Referee** etc.
+3. **WorldCupPlayers.csv**: 9 attributes 37,784 rows, showing all information about players correspond to the matches including **Coach Name**, **Position**, **Line-up**, etc.
 
 ### 2. SQL databases
 Based on the data collected, I design the Entity-Relationship Diagram (ERD) and Relational Schema. Entity (table) creation is based on 3 most common levels of normalization to ensure data integrity.   
