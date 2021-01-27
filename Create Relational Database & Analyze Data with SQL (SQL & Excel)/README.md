@@ -26,26 +26,31 @@ This dataset consists of 3 CSV files:
 ### 2. SQL databases
 I have designed the Entity-Relationship Diagram (ERD) and Relational Schema based on the collected data, which adhere to 3 most common levels of normalization to ensure data integrity. The tools are from [ERD Plus](https://erdplus.com/).
 
-
 ### 3. Data Preparation
-Once I have the database schema, I prepare the data by cleaning, harmonising, transforming the data using using python and export each of the entity to csv format.  
-I created SG Crime database using **SQL Server Management Studio (SSMS)**. 
-Data imported into the database through flat file (.csv). 
-I created constraint for some of attributes to ensure data integrity.
+After creating database schema, I have conducted initial data cleaning and transformation by using **Power Query** and export each of the entity into csv format.  
+I have created FIFA WorldCup database in **SQL Server Management Studio (SSMS)**, then I have created tables based on schema in sequence. 
+I loaded data into corresponding tables by using SQL statements. After that, I've carried out further data cleaning process before start of data analysis.
 
 ### 4. Data Analysing using SQL
-This step is to discover the underying insights from the dataset by answering the following questions:
-- Is there an increase in the overall crime rate over the years?
-- What is teh most common type of crime?
-- Is crime cases vary greatly by neighborhood?
-- What is the offences that seeing increases in recent year?
-- Who are more vulnerable to the crime of concern?
+In this project, I attempt to discover the underlying insights from this dataset to answer these questions:
+- What are the Quick Facts about World Cup?
+- What is the distribution of participant countries?
+- How did Host Countries perform in each World Cup?
+- Who are the Top Teams/Dart Horses?
+- What are the most common Scores?
+To answer the above questions, I've carried out a few major queries(please refer to 'SQL' folder for the detailed SQL script ) and figure out the answers accordingly. I've creat several **view** to store these answers in order to export them into MS Excel.
 
 ### 5. Interactive Dashboard using MS Excel
-I created three interactive dashboard in Excel:
-- Overall crime
-- Five preventable crime, unlicensed money lending & harassment by Neighborhood Police Center (NPC)
-- Person Arrested and Victims by Selected Major Offences
+After importing data from **SQL Sever** into **MS Excel**, I've leveraged **Pivot Table** and **Slicer** to create ineractive Dashboard.
+On the most left, I've also created 2 filters to filter out countries according to their Qualified times and Average position, which helps us to find out the Countries' Names before clicking on slicers for desired information.
+
+This Interactive Dashboard contains these following information:
+- Country Position in 1986-2014 (Sliced by Countries)
+- Total number of Champion Countries/Qualified Countries/Host Countries, Total number of World Cups, 
+- Geopraphic Distribution of Champion Countries/Qualified Countries
+- Distribution of Champion Countries
+- Host Countries Historical Position (Sliced by Year), Host Countries Average Position
+- Score Distribution (Sliced by Year & Stage)
 
 ## Summary:
 - Crime rate through remain low, but seeing increasing trend in two consecutive years 2018, and 2019.
