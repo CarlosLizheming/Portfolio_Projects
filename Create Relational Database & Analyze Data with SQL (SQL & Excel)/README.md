@@ -41,7 +41,7 @@ In this project, I attempt to discover the underlying insights from this dataset
 To answer the above questions, I've carried out a few major queries(please refer to 'SQL' folder for the detailed SQL script ) and figure out the answers accordingly. I've creat several **view** to store these answers in order to export them into MS Excel.
 
 ### 5. Interactive Dashboard using MS Excel
-After importing data from **SQL Sever** into **MS Excel**, I've leveraged **Pivot Table** and **Slicer** to create ineractive Dashboard.
+After importing data from **SQL Sever** into **MS Excel**, I've leveraged **Pivot Table** and **Slicer** to create Interactive Dashboard.
 On the most left, I've also created 2 filters to filter out countries according to their Qualified times and Average position, which helps us to find out the Countries' Names before clicking on slicers for desired information.
 
 This Interactive Dashboard contains these following information:
