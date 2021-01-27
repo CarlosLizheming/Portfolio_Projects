@@ -53,11 +53,26 @@ This Interactive Dashboard contains these following information:
 - Score Distribution (Sliced by Year & Stage)
 
 ## Summary:
-- Crime rate through remain low, but seeing increasing trend in two consecutive years 2018, and 2019.
-- Most common types of crime is Commercial crimes.
-- Total crime cases reported vary by NPC. 
-- Increase in Outrage of Modesty cases trend remain a concern.
-- Male is more vulnerable to Cheating related offences, but female is more impacted in Outrage of Modesty.
+Top Teams: 
+- Brazil: 5 Champion, Stable high performance.
+- Germany:4 Champion, Stable high performance.
+- Italy: 4 Champion, performance falling downwards.
+- Argentina: 2 Champion, performance uprising.
+- France: 1 Champion, performance uprising.
+
+Rank 16 for Continuous 6 World-Cup: 
+- Mexico
+
+Dark Horses:
+- Turkey, ranked in 3rd place
+- Ukraine, ranked in 8th place
+- Senegal, ranked in 8th place
+
+Most Common Score:
+- 0-1
+- 0-2
+
+
 
 
 ```python
