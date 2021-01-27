@@ -46,7 +46,7 @@ On the most left, I've also created 2 filters to filter out countries according 
 
 This Interactive Dashboard contains these following information:
 - Country Position in 1986-2014 (Sliced by Countries)
-- Total number of Champion Countries/Qualified Countries/Host Countries, Total number of World Cups, 
+- Total number of Champion Countries/Qualified Countries/Host Countries, Total number of World Cups
 - Geopraphic Distribution of Champion Countries/Qualified Countries
 - Distribution of Champion Countries
 - Host Countries Historical Position (Sliced by Year), Host Countries Average Position
