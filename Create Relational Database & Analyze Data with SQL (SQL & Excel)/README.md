@@ -2,6 +2,7 @@
 # Create Relational Database & Analyze Data with SQL (SQL & Excel)
 ## Topic: FIFA WorldCup Performance Analysis (1930-2014)
 
+The **purpose** of this project is to demonstrate my understanding of Database related knowledge and my competency in **SQL** coding and **MS Excel** data visualization.
 The goal of this project is to exhibit five stages of the data lifecycle through the use of **SQL** and **MS Excel**. An insightful **dashboards** will be created as an end result.
 
 Project scope:
