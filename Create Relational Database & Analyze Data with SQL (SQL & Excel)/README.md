@@ -28,7 +28,7 @@ I have designed the Entity-Relationship Diagram (ERD) and Relational Schema base
 
 ### 3. Data Preparation
 After creating database schema, I have conducted initial data cleaning and transformation by using **Power Query** and export each of the entity into csv format.  
-I have created FIFA WorldCup database in **SQL Server Management Studio (SSMS)**, then I have created tables based on schema in sequence. 
+I have created FIFA WorldCup database in **SQL Server Management Studio (SSMS)**, then I have created tables based on schema in sequence. <br>
 I loaded data into corresponding tables by using SQL statements. After that, I've carried out further data cleaning process before start of data analysis.
 
 ### 4. Data Analysing using SQL
