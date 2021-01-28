@@ -6,3 +6,7 @@ Throughout this course, I have acquired many industry-relevant skills and comple
 Create Relational Database & Analyze Data with SQL (SQL & Excel)<br>
 Topic: **FIFA WorldCup Performance Analysis (1930-2014)**
 
+## Project 2:   
+Interactive Dashboard (Excel & Power Query)<br>
+Topic: **Power Infrastructure Market Analysis in Asia**
+
