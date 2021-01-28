@@ -1,0 +1,48 @@
+﻿Station,Location,Country,Capacity (MW),Fuel Type,Type,Year,Status,Owner,Operator,Water source
+Lakvijaya,Puttalam,Sri Lanka,900,Coal,Non-renewable,,,Government,,
+Kelanitissa,Colombo,Sri Lanka,360,Oil,Non-renewable,,,Government,,
+Yugadanavi,Kerawalapitiya,Sri Lanka,300,Oil,Non-renewable,,,Private,,
+Sojitz Kelanitissa,Colombo,Sri Lanka,172,Oil,Non-renewable,,,Private,,
+Sapugaskanda,Sapugaskanda,Sri Lanka,160,Oil,Non-renewable,,,Government,,
+Colombo Port,Colombo,Sri Lanka,60,Oil,Non-renewable,,,Government,,
+Asia Power Sapugaskanda,Sapugaskanda,Sri Lanka,51,Oil,Non-renewable,,,Private,,
+Northern Power,Chunnakam,Sri Lanka,36,Oil,Non-renewable,,,Private,,
+Ace Matara,Matara,Sri Lanka,25,Oil,Non-renewable,,,Private,,
+Lakdhanavi,Sapugaskanda,Sri Lanka,24,Oil,Non-renewable,,,Private,,
+Uthuru Janani,Chunnakam,Sri Lanka,24,Oil,Non-renewable,,,Government,,
+Victoria,Mahaweli,Sri Lanka,210,Hydroelectric,Renewable,1984,,,,Victoria
+Kotmale,Mahaweli,Sri Lanka,201,Hydroelectric,Renewable,1985,,,,Kotmale
+Upper Kotmale,Mahaweli,Sri Lanka,150,Hydroelectric,Renewable,2012,,,,Upper Kotmale
+Randenigala,Mahaweli,Sri Lanka,126,Hydroelectric,Renewable,1986,,,,Randenigala
+Samanala,Other,Sri Lanka,124,Hydroelectric,Renewable,1992,,,,Samanala
+New Laxapana,Laxapana,Sri Lanka,100,Hydroelectric,Renewable,1983,,,,Canyon
+Kukule Ganga,Other,Sri Lanka,80,Hydroelectric,Renewable,2003,,,,Kukule Ganga
+Polpitiya,Laxapana,Sri Lanka,75,Hydroelectric,Renewable,1974,,,,Laxapana
+Canyon,Laxapana,Sri Lanka,60,Hydroelectric,Renewable,1983,,,,Maskeliya
+Rantembe,Mahaweli,Sri Lanka,52,Hydroelectric,Renewable,1990,,,,Rantembe
+Wimalasurendra,Laxapana,Sri Lanka,50,Hydroelectric,Renewable,1965,,,,Castlereigh
+Old Laxapana,Laxapana,Sri Lanka,50,Hydroelectric,Renewable,1950,,,,Norton
+Bowatenna,Mahaweli,Sri Lanka,40,Hydroelectric,Renewable,1981,,,,Bowatenna
+Ukuwela,Mahaweli,Sri Lanka,40,Hydroelectric,Renewable,1976,,,,Polgolla
+Inginiyagala,Other,Sri Lanka,11,Hydroelectric,Renewable,1951,,,,Gal Oya
+Udawalawe,Other,Sri Lanka,6,Hydroelectric,Renewable,1969,,,,Udawalawe
+Nilambe,Mahaweli,Sri Lanka,3.2,Hydroelectric,Renewable,1988,,,,Nilambe
+Deduru Oya,Other,Sri Lanka,1.5,Hydroelectric,Renewable,2014,,,,Deduru Oya
+Hambantota,06°13′34″N 81°04′35″E﻿ / ﻿6.22611°N 81.07639°E,Sri Lanka,1.2,Solar,Renewable,,,Government,,
+Laugfs,06°13′47″N 81°04′48″E﻿ / ﻿6.22972°N 81.08000°E,Sri Lanka,20,Solar,Renewable,,,LAUGFS Holdings,,
+Sagasolar,06°13′54″N 81°05′08″E﻿ / ﻿6.23167°N 81.08556°E,Sri Lanka,10,Solar,Renewable,,,Sagasolar Power,,
+Solar One Ceylon,07°58′30″N 81°14′10″E﻿ / ﻿7.97500°N 81.23611°E,Sri Lanka,12.6,Solar,Renewable,,,Windforce,,
+Ambewela Aitken Spence,06°50′36″N 80°48′47″E﻿ / ﻿6.84333°N 80.81306°E,Sri Lanka,3,Wind,Renewable,,,Aitken Spence,Ace Wind Power,
+Madurankuliya,08°00′46″N 79°43′37″E﻿ / ﻿8.01278°N 79.72694°E,Sri Lanka,12,Wind,Renewable,,,Windforce,Daily Life Renewable Energy,
+Mampuri-I,08°00′37″N 79°43′24″E﻿ / ﻿8.01028°N 79.72333°E,Sri Lanka,10,Wind,Renewable,,,Senok,Senok Wind Power,
+Mampuri-II,07°58′35″N 79°43′53″E﻿ / ﻿7.97639°N 79.73139°E,Sri Lanka,10.5,Wind,Renewable,,,Senok,Senok Wind Energy,
+Mampuri-III,08°00′35″N 79°43′44″E﻿ / ﻿8.00972°N 79.72889°E,Sri Lanka,10.5,Wind,Renewable,,,Senok,Senok Wind Resource,
+Nala Danavi,08°05′23″N 79°42′33″E﻿ / ﻿8.08972°N 79.70917°E,Sri Lanka,4.8,Wind,Renewable,,,LTL Holdings,Nala Danavi,
+Nirmalapura,07°57′53″N 79°44′07″E﻿ / ﻿7.96472°N 79.73528°E,Sri Lanka,10.5,Wind,Renewable,,,Windforce,Nirmalapura Wind Power,
+Pawan Danavi,08°02′56″N 79°43′08″E﻿ / ﻿8.04889°N 79.71889°E,Sri Lanka,10.2,Wind,Renewable,,,LTL Holdings,Pawan Danavi,
+Pollupalai,09°34′40″N 80°19′12″E﻿ / ﻿9.57778°N 80.32000°E,Sri Lanka,12,Wind,Renewable,,,Windforce,Joule Power,
+Seguwantivu,08°02′48″N 79°48′54″E﻿ / ﻿8.04667°N 79.81500°E,Sri Lanka,9.6,Wind,Renewable,,,Windforce,Seguwantivu Wind Power,
+Uppudaluwa,07°58′52″N 79°46′33″E﻿ / ﻿7.98111°N 79.77583°E,Sri Lanka,10.5,Wind,Renewable,,,Windforce,PowerGen Lanka,
+Vallimunai,09°33′54″N 80°20′12″E﻿ / ﻿9.56500°N 80.33667°E,Sri Lanka,12,Wind,Renewable,,,Windforce,Beta Power,
+Vidatamunai,08°04′00″N 79°47′38″E﻿ / ﻿8.06667°N 79.79389°E,Sri Lanka,10.4,Wind,Renewable,,,Windforce,Vidatamunai Wind Power,
+Willwind,06°36′40″N 80°44′44″E﻿ / ﻿6.61111°N 80.74556°E,Sri Lanka,0.85,Wind,Renewable,,,Willwind,Willwind,
