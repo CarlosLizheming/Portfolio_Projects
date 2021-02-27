@@ -10,3 +10,6 @@ Topic: **FIFA WorldCup Performance Analysis (1930-2014)**
 Interactive Dashboard (Excel & Power Query)<br>
 Topic: **Power Infrastructure Market Analysis in Asia**
 
+## Project 3:   
+Machine Learning using Python<br>
+Topic: **Identifying the Terrorist Organization responsible for a Terrorist Attack**
