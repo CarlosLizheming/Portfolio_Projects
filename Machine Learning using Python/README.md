@@ -1,5 +1,5 @@
 ### Portfolio Project
-# Machine Learning using python
+# Machine Learning using Python
 ## Topic: Identifying the Terrorist Organization responsible for a Terrorist Attack
 
 The **purpose** of this project is to demonstrate my capability and competency in **Machine Learning** using **Python** Language.
