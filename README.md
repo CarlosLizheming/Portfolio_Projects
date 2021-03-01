@@ -11,5 +11,9 @@ Interactive Dashboard (Excel & Power Query)<br>
 Topic: **Power Infrastructure Market Analysis in Asia**
 
 ## Project 3:   
+Data Analysis and Visualization by Power BI<br>
+Topic: **Global Terrorism Incidents Analysis (1998-2017)**
+
+## Project 4:   
 Machine Learning using Python<br>
 Topic: **Identifying the Terrorist Organization responsible for a Terrorist Attack**
