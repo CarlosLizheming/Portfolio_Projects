@@ -4,7 +4,8 @@
 
 The **purpose** of this project is to demonstrate my understanding of Database related knowledge and my competency in **SQL** coding and **MS Excel** data visualization.
 
-The goal of this project is to exhibit five stages of the data lifecycle through the use of **SQL** and **MS Excel**. An insightful **dashboards** will be created as an end result.
+The goal of this project is to exhibit five stages of the data lifecycle through the use of **SQL** and **MS Excel**. 
+An insightful **dashboards** will be created as an end result.
 
 Project scope:
 1. Data Collection from various sources
